@@ -64,7 +64,7 @@ video {
     font-family: "Nanum Gothic Coding", monospace;
     font-weight: 400;
 }
-#dl_btn {
+#dl_btn,#dl_btn2 {
     font-family: "Nanum Gothic Coding", monospace;
     font-weight: 400;
     background: 000;
